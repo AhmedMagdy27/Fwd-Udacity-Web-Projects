@@ -8,6 +8,10 @@
 
 The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
 
-To get started, open `js/app.js` and start building out the app's functionality
+### Most important functions:
+ - createNavigationMenu()
+ - elementisInViewport
+ - setActiveState()
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+ ### Description: 
+ - Html that contains 5 sections and a navigation menu that contain these sections to be clicked to scroll into it and all page has an active state when the element is in viewport

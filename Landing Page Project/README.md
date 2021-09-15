@@ -14,4 +14,4 @@ The starter project has some HTML and CSS styling to display a static version of
  - setActiveState()
 
  ### Description: 
- - Html that contains 5 sections and a navigation menu that contain these sections to be clicked to scroll into it and all page has an active state when the element is in viewport
+ - A landing page that contains 5 sections and a navigation menu that contain these sections to be clicked to scroll into it and all page has an active state when the element is in viewport
